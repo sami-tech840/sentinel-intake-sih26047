@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel Intake",
+  "description": "Patient-first digital intake and AI-assisted clinical triage system for Ayush OPDs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
